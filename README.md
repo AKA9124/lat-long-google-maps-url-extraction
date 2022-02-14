@@ -1,4 +1,4 @@
-# googlemapslinkextraction
+# lat-long-google-maps-url-extraction
 This is simple program written in php to retrieve latitude and longitude from any google maps link
 
 ## Example
