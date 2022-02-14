@@ -30,7 +30,7 @@ echo '<br>';
 echo '<br> Latitude '. $lat;
 echo '<br>';
 echo '<br> Longitude '. $long;
-//maps API AIzaSyDLiOPsrIqyV7EHrrfCKfgM1v5p9a6YsvM
+
 
 
 ?>
