@@ -1,6 +1,6 @@
 # lat-long-google-maps-url-extraction
 This is simple program written in php to retrieve latitude and longitude from any google maps URL
-
+*Added Python
 ## Example
 URL Input : Mc Donald's https://goo.gl/maps/4ibdvwWDF7HWmXcSA
 
